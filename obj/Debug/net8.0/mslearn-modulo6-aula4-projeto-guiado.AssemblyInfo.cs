@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mslearn-modulo6-aula4-projeto-guiado")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45a68e4ca21b62c0c2f5d07e59279b2437ccde42")]
 [assembly: System.Reflection.AssemblyProductAttribute("mslearn-modulo6-aula4-projeto-guiado")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mslearn-modulo6-aula4-projeto-guiado")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
